@@ -71,19 +71,19 @@ Próximos Passos: Coletar dados mais recentes e incluir variáveis adicionais pa
 ### 8. Agradecimentos
 Agradecemos o apoio da Ada e do orientador Alex Lima!
 
-### Autores:
-Olga Osorio Aburto
-GitHub | LinkedIn
+## Autores:
 
-Michael Florentino
-GitHub | LinkedIn
+- **Olga Osorio Aburto**  
+  [GitHub](http://github.com/olgaosorio/) | [LinkedIn](http://linkedin.com/in/olga-osorio-aburto/)
 
-Matheus Gouveia
-GitHub | LinkedIn
+- **Michael Florentino**  
+  [GitHub](https://github.com/Michaelgsf) | [LinkedIn](https://www.linkedin.com/in/michaelgsf)
 
-Murilo Silva
-GitHub | LinkedIn
+- **Matheus Gouveia**  
+  [GitHub](https://github.com/gouveiamdb) | [LinkedIn](https://www.linkedin.com/in/matheus-gouveia-387a19258/)
 
-Marcos Carvalho GitHub | LinkedIn
+- **Murilo Silva**  
+  [GitHub](https://github.com/usuario3) | [LinkedIn](https://www.linkedin.com/in/murilo-silva-bb2741a1)
 
-"""
+- **Marcos Carvalho**  
+  [GitHub](https://github.com/MarcosFN2014) | [LinkedIn](https://www.linkedin.com/in/marcos-carvalho-8173a2241/)
